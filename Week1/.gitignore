@@ -1,3 +1,5 @@
 package.json
 package-lock.json
 create-table.js
+/homework/node_modules/
+node_modules/
